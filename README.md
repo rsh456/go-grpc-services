@@ -8,4 +8,5 @@ as a comment where Store indicates the interface to be mocked
 
 2.Test Service
 > go test ./... -v
-[alt text](https://github.com/rsh456/go-grpc-services/blob/master/images/test_1.PNG)
+
+!(https://github.com/rsh456/go-grpc-services/blob/master/images/test_1.PNG)

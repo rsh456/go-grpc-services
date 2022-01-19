@@ -1,1 +1,1 @@
-DROP TABLE IF NOT EXISTS rockets;
+DROP TABLE IF EXISTS rockets;
